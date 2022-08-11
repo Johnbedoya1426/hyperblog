@@ -1,0 +1,5 @@
+Por lo general, cualquier usuario que crea un archivo en un sistema 
+
+Unix se define automáticamente como user de ese archivo.
+ 
+ Con el comando chown puede modificarse esta atribución a posteriori.
