@@ -1,4 +1,5 @@
 Por lo general, cualquier usuario que crea un archivo en un sistema 
+informatico como windows mac o
 
 Unix se define automáticamente como user de ese archivo.
  
