@@ -6,3 +6,5 @@ Unix se define automáticamente como user de ese archivo.
  Con el comando chown puede modificarse esta atribución a posteriori.
 
  otra vez a cambiar
+
+ y vuelve otra vez
