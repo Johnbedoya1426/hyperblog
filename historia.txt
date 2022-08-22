@@ -2,7 +2,9 @@ Por lo general, cualquier usuario que crea un archivo en un sistema
 informatico como windows mac o
 
 Unix se define automáticamente como user de ese archivo.
- 
+
+no quizo dar lo de la tilde 
+
  Con el comando chown puede modificarse esta atribución a posteriori.
 
 ooeee soy el gordo y tengo como 5 pollas 
