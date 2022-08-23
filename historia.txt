@@ -12,6 +12,12 @@ ooeee soy el gordo y tengo como 5 pollas
 
  y vuelve otra vez
 
+<<<<<<< HEAD
 master 10
 
 master 2
+=======
+ experimento 1
+
+master 10
+>>>>>>> 3264739 (exp 1)
