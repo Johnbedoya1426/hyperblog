@@ -19,5 +19,11 @@ master 2
 =======
  experimento 1
 
+<<<<<<< HEAD
 master 10
 >>>>>>> 3264739 (exp 1)
+=======
+ experimento 2
+
+master 10
+>>>>>>> 3806008 (exp 2)
