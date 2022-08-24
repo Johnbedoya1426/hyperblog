@@ -8,3 +8,4 @@ un blog increible para el curso de git y github de platzi
 * trucos muy locos del profesor
 * creado por john bedoya
 * Incluye ejemplos 
+* para todas las edades
