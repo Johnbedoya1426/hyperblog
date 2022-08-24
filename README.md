@@ -7,3 +7,5 @@ un blog increible para el curso de git y github de platzi
 * El verdadero amor por las buenas practicas
 * trucos muy locos del profesor
 * creado por john bedoya
+* Incluye ejemplos 
+* para todas las edades
